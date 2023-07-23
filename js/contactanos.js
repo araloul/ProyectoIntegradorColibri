@@ -10,7 +10,7 @@ let esValidoEmail = true;
 
 /*
 
-limpiar.addEventListener("click", function (event) {//marca error en la consola, pero no sé porqué 
+btnLimpiar.addEventListener("click", function (event) {//marca error en la consola, pero no sé porqué 
     event.preventDefault();
     nombre.value = "";
     email.value = "";
@@ -42,4 +42,3 @@ btnEnviar.addEventListener("click", (event) => {
 
 
 
-let regEx
